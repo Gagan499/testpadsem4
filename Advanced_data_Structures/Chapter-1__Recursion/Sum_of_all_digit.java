@@ -11,7 +11,7 @@ class Main{
         return n;
        }
        return (n%10) + sumOfDigits(n/10);
-    }
+    }  
     public static void main(String[] args)
     {
         // Write your code here
@@ -25,4 +25,4 @@ class Main{
         }
         sc.close();
     }
-}
+}.,
